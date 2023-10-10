@@ -1,7 +1,5 @@
 ok1
-bag1
-bag2
-bag3
 ok2
 ok4
 ok5
+ok3
